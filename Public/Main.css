@@ -1,0 +1,53 @@
+body {
+margin: 0 0 0 0;
+background-color: #f0f5f7;
+}
+.nomar{
+margin: 5px 0 0 0;
+}
+
+.menu {
+  display: flex;
+}
+.sam{
+  padding:  0 15% 0 20%;
+  font-family: GloberThinFree;
+  font-size: 20px;
+  font-weight: 300;
+  color:#333;
+  text-align: justify; 
+}
+
+.pervaplashka {
+ height		: 4em;
+ background: #333;
+ color: #088;
+ text-align:center;
+ font-family: GloberThinFree;
+ font-size: 4vw;
+ font: bold;
+  
+}
+
+.width {
+background-color : #8484e6;    
+font-size : 100px;
+border-radius:  45px;
+}
+
+.boton {
+  display:block;
+  background:#eee;
+  color:#088;
+  font-family: DaxlinePro-Regular;
+  font-weight: 300;
+  text-decoration:none;
+  text-align:center;
+  margin:2px 1px;
+  padding:10px 10px;
+  transition:all 0.3s;
+  flex-grow: 1;
+  }
+ .boton:hover{
+  box-shadow:0px -3px 0 #088 inset;
+}
