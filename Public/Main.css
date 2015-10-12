@@ -51,3 +51,14 @@ border-radius:  45px;
  .boton:hover{
   box-shadow:0px -3px 0 #088 inset;
 }
+
+.liist {
+  color:#088;
+  font-family: DaxlinePro-Regular;
+  font-weight: 300;
+  margin-left: 100px;
+}
+
+.flo {
+float: right;
+}
