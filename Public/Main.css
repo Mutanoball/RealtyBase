@@ -62,3 +62,12 @@ border-radius:  45px;
 .flo {
 float: right;
 }
+.tabl300{
+  width: 300px;
+   }
+.tabl100{
+ margin:2px 1px;   
+ position: relative;
+ width: 100px;   
+ display: table-cell;
+ }
