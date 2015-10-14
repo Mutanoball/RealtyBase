@@ -54,7 +54,6 @@ border-radius:  45px;
 
 .liist {
   color:#088;
-  margin: 10px 0px 10px 0px;
   font-family: DaxlinePro-Regular;
   font-weight: 300;
   width: 50%;
@@ -86,10 +85,23 @@ float: right;
     text-align: right;
 }
 .list2 {
-    margin-left: 300px;
+    padding: 0 50px 0 50px;
+    margin-left: 23%;
     display: flex;
     justify-content: center;
     align-items: center;
-    width: 40%;
-    height: 100px;
+    width: 50%;
+    height: 120px;
 }
+.bignum {
+    font-size: 60px;
+    display: inline;
+    color:#088;
+  font-family: DaxlinePro-Regular;
+  font-weight: 300;
+  margin-right: 30px;
+}
+.currentpage{
+  background:0;
+  font-style: italic;
+  }
